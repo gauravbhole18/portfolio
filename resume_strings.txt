@@ -1,0 +1,470 @@
+%PDF-1.7
+1 0 obj
+<</Type/Catalog/Pages 2 0 R/Lang(en) /Metadata 44 0 R/ViewerPreferences 45 0 R>>
+endobj
+2 0 obj
+<</Type/Pages/Count 2/Kids[ 3 0 R 30 0 R] >>
+endobj
+3 0 obj
+<</Type/Page/Parent 2 0 R/Resources<</Font<</F1 5 0 R/F2 12 0 R/F3 18 0 R/F4 23 0 R/F5 25 0 R>>/ExtGState<</GS10 10 0 R/GS11 11 0 R>>/ProcSet[/PDF/Text/ImageB/ImageC/ImageI] >>/Annots[ 14 0 R 15 0 R 16 0 R 17 0 R] /MediaBox[ 0 0 595.32 841.92] /Contents 4 0 R/Group<</Type/Group/S/Transparency/CS/DeviceRGB>>/Tabs/S>>
+endobj
+4 0 obj
+<</Filter/FlateDecode/Length 6199>>
+stream
+&'@K{x>"kwT
+lK((:q
+J(6cp7
+=EaKj\
+ef2TxMAJ
+=Jp0o&
+>udUs7Vs}PID
+endstream
+endobj
+5 0 obj
+<</Type/Font/Subtype/Type0/BaseFont/BCDEEE+ArialMT/Encoding/Identity-H/DescendantFonts 6 0 R/ToUnicode 33 0 R>>
+endobj
+6 0 obj
+[ 7 0 R] 
+endobj
+7 0 obj
+<</BaseFont/BCDEEE+ArialMT/Subtype/CIDFontType2/Type/Font/CIDToGIDMap/Identity/DW 1000/CIDSystemInfo 8 0 R/FontDescriptor 9 0 R/W 35 0 R>>
+endobj
+8 0 obj
+<</Ordering(Identity) /Registry(Adobe) /Supplement 0>>
+endobj
+9 0 obj
+<</Type/FontDescriptor/FontName/BCDEEE+ArialMT/Flags 32/ItalicAngle 0/Ascent 905/Descent -210/CapHeight 728/AvgWidth 441/MaxWidth 2665/FontWeight 400/XHeight 250/Leading 33/StemV 44/FontBBox[ -665 -210 2000 728] /FontFile2 34 0 R>>
+endobj
+10 0 obj
+<</Type/ExtGState/BM/Normal/ca 1>>
+endobj
+11 0 obj
+<</Type/ExtGState/BM/Normal/CA 1>>
+endobj
+12 0 obj
+<</Type/Font/Subtype/TrueType/Name/F2/BaseFont/BCDFEE+ArialMT/Encoding/WinAnsiEncoding/FontDescriptor 13 0 R/FirstChar 32/LastChar 32/Widths 36 0 R>>
+endobj
+13 0 obj
+<</Type/FontDescriptor/FontName/BCDFEE+ArialMT/Flags 32/ItalicAngle 0/Ascent 905/Descent -210/CapHeight 728/AvgWidth 441/MaxWidth 2665/FontWeight 400/XHeight 250/Leading 33/StemV 44/FontBBox[ -665 -210 2000 728] /FontFile2 34 0 R>>
+endobj
+14 0 obj
+<</Subtype/Link/Rect[ 445.77 747.52 534.66 763.17] /BS<</W 0>>/F 4/A<</Type/Action/S/URI/URI(http://www.gauravbhole.tech/) >>>>
+endobj
+15 0 obj
+<</Subtype/Link/Rect[ 43.356 731.87 188.05 747.52] /BS<</W 0>>/F 4/A<</Type/Action/S/URI/URI(https://d.docs.live.net/91B8A1327F06BA4E/Documents/bholegaurav183@gmail.com) >>>>
+endobj
+16 0 obj
+<</Subtype/Link/Rect[ 401.8 731.87 535.95 747.52] /BS<</W 0>>/F 4/A<</Type/Action/S/URI/URI(http://www.github.com/gauravbhole18) >>>>
+endobj
+17 0 obj
+<</Subtype/Link/Rect[ 40.3 716.22 200.12 731.87] /BS<</W 0>>/F 4/A<</Type/Action/S/URI/URI(https://www.linkedin.com/in/gauravbhole18/) >>>>
+endobj
+18 0 obj
+<</Type/Font/Subtype/Type0/BaseFont/BCDGEE+Arial-BoldMT/Encoding/Identity-H/DescendantFonts 19 0 R/ToUnicode 37 0 R>>
+endobj
+19 0 obj
+[ 20 0 R] 
+endobj
+20 0 obj
+<</BaseFont/BCDGEE+Arial-BoldMT/Subtype/CIDFontType2/Type/Font/CIDToGIDMap/Identity/DW 1000/CIDSystemInfo 21 0 R/FontDescriptor 22 0 R/W 39 0 R>>
+endobj
+21 0 obj
+<</Ordering(Identity) /Registry(Adobe) /Supplement 0>>
+endobj
+22 0 obj
+<</Type/FontDescriptor/FontName/BCDGEE+Arial-BoldMT/Flags 32/ItalicAngle 0/Ascent 905/Descent -210/CapHeight 728/AvgWidth 479/MaxWidth 2628/FontWeight 700/XHeight 250/Leading 33/StemV 47/FontBBox[ -628 -210 2000 728] /FontFile2 38 0 R>>
+endobj
+23 0 obj
+<</Type/Font/Subtype/TrueType/Name/F4/BaseFont/BCDHEE+Arial-BoldMT/Encoding/WinAnsiEncoding/FontDescriptor 24 0 R/FirstChar 32/LastChar 32/Widths 40 0 R>>
+endobj
+24 0 obj
+<</Type/FontDescriptor/FontName/BCDHEE+Arial-BoldMT/Flags 32/ItalicAngle 0/Ascent 905/Descent -210/CapHeight 728/AvgWidth 479/MaxWidth 2628/FontWeight 700/XHeight 250/Leading 33/StemV 47/FontBBox[ -628 -210 2000 728] /FontFile2 38 0 R>>
+endobj
+25 0 obj
+<</Type/Font/Subtype/Type0/BaseFont/BCDIEE+SymbolMT/Encoding/Identity-H/DescendantFonts 26 0 R/ToUnicode 41 0 R>>
+endobj
+26 0 obj
+[ 27 0 R] 
+endobj
+27 0 obj
+<</BaseFont/BCDIEE+SymbolMT/Subtype/CIDFontType2/Type/Font/CIDToGIDMap/Identity/DW 1000/CIDSystemInfo 28 0 R/FontDescriptor 29 0 R/W 43 0 R>>
+endobj
+28 0 obj
+<</Ordering(Identity) /Registry(Adobe) /Supplement 0>>
+endobj
+29 0 obj
+<</Type/FontDescriptor/FontName/BCDIEE+SymbolMT/Flags 32/ItalicAngle 0/Ascent 1005/Descent -216/CapHeight 693/AvgWidth 600/MaxWidth 1113/FontWeight 400/XHeight 250/StemV 60/FontBBox[ 0 -216 1113 693] /FontFile2 42 0 R>>
+endobj
+30 0 obj
+<</Type/Page/Parent 2 0 R/Resources<</Font<</F5 25 0 R/F2 12 0 R/F1 5 0 R/F3 18 0 R/F4 23 0 R>>/ExtGState<</GS10 10 0 R/GS11 11 0 R>>/ProcSet[/PDF/Text/ImageB/ImageC/ImageI] >>/MediaBox[ 0 0 595.32 841.92] /Contents 31 0 R/Group<</Type/Group/S/Transparency/CS/DeviceRGB>>/Tabs/S>>
+endobj
+31 0 obj
+<</Filter/FlateDecode/Length 5826>>
+stream
+sbsjF/
+#W31vqL
+i:k!Pq
+S\g(Lg
+K$Tn--
+${! Ac!c
+(`+Bkb
+endstream
+endobj
+32 0 obj
+<</Author(gaurav Bhole) /Creator(
+5) /CreationDate(D:20251223202559+05'30') /ModDate(D:20251223202559+05'30') /Producer(
+endobj
+33 0 obj
+<</Filter/FlateDecode/Length 303>>
+stream
+endstream
+endobj
+34 0 obj
+<</Filter/FlateDecode/Length 51794/Length1 111140>>
+stream
+c4j*Xc/
+@Qi)rZ
+%wh4L`.
+X(a<%w<
+hw ,y;
+n`mkY[)k
+p.drsu
+~N$/&rK
+W*xfsL
+pV>@G {
+-M`5l*-
+c/Z,	k=
+R{i08|
+@E1$|j6
+o%?<k8
+"IdV7KS
+OKM1xs|,
+YqepFE
+nK	Ky]
+5QwWX+
+8LqGl8
+B,KA,B$
+q\iU]]
+]'l(zKx
+pt8vc(
+yRE<aa
+f-\vz3Pny
+G.H[pL>
+8/VKnFr
+b<0"(&%%
+(9z 9z Yz
+b0x:Si
+[,Ac|Z0
+IU&	(U
+g).N{B,
+<j).<`
+IX*WR	
+7_=wZ]
+N>x3P>
+wcP"ba
+s</SCB
+W^~9SA
+DQAeQ	"
+{2OqFT\
+T W*(8
+n@p?`a
+4xtkK%
+!b)WK4TsjA
+8kJb\j
+|?mdy'
+nz[_}*
+\$TOlG
+wW=}YbF
+V;8U8]
+CX_vFb
+.ep_9f p
+NiJ`?s'
+J9S}XKd
+%hJ6zr
+iD;SsP
+YXZ5$$h
+C)IZKFt
+C	y6O<
+?lXr g
+ fJb/I
+wl9wwu
+aCq1Au#%
+sq)<JF
+)(&y"l
+Ot3cJG
+-4*nWr
+B	#)mGZ
+/_}|}<
+?0!GZu9
+ SIiZ"
+ASDtbq
+H:22i@R
+U?6)]c
+G	E*D&
+8k8w&9
+HzBxlb@W
+(5B-nm
+FN-tD&
+u@XW,.O
+~e0J8-
+{KUB8:%
+LzNomi
+.qZlVC
+FsKoDa
+t)V[C*.
+`FZ0(:
+V}k3XD'Lz
+qI\MIeqyU%
+Zj*]CkJ
+S`_c%g$|^
+!>?NQW
+Nv,Qpo
+c;K:G/*
+MZ?0bJ
+**=sxM\
+ K>+:}
+<w2sv}
+?XsjEX
+-5!|tzf
+w	cFLf,""4^P
+PQAAAa
+-l=!~F
+IW|&ma
+MpzYzm
+/~?gDfr
+endstream
+endobj
+35 0 obj
+[ 0[ 750]  3[ 278]  8[ 889]  11[ 333 333]  14[ 584 278 333 278 278 556 556 556 556 556 556 556 556 556 556 278]  35[ 1015 667 667 722 722 667 611 778 722 278 500]  47[ 556 833 722 778 667 778 722 667 611 722 667 944]  68[ 556 556 500 556 556 278 556 556 222 222 500 222 833 556 556 556 556 333 500 278 556 500 722 500 500 500]  97[ 584]  182[ 222]  240[ 333] ] 
+endobj
+36 0 obj
+[ 278] 
+endobj
+37 0 obj
+<</Filter/FlateDecode/Length 321>>
+stream
+endstream
+endobj
+38 0 obj
+<</Filter/FlateDecode/Length 38968/Length1 87464>>
+stream
+"*.)-+
+5uDZjJ
++)1!>.6&
+wSkmj_
+E^	AiT0m
+m|[w{]
+rQ+*EA
+oJSWV9
+@h@h@h@h
+\h[(K,<3Q
+cqZ"-v
+9Y'IF]
+h6Ma2tr
+TaZdj7}`
+c]"E;l
+}\z/9"559-
+xtk,+>
+q&slIi
+Ps3+LL
+Q*8-0TVV
+,16!]u8
+Z%"]<&
+>WB#;)
+_XXKHU
+$3+NZ}
+B5';'R
+!*rH=JH
+?g>gYBt
+Ni ,'/
+\&3`HY
+ q,[*KNY
+9zv>l|
+k|%k<=
+ \p\p]
+fX3\:D
+`vl^1G
+~9g.\#
+8z4z*J[
+*7O:L3
++u6]%=<
+0yBr]X0
+oNFNq2
+-Of"kl=
+fblLrp
+v:]8TCAeCZ
+.gNY"Q
+cZS>aK[
+gn@^4[LF
+:VIf`t
+m;?t~Xn;
+-hHYHK
+=5{By{u
+c-@Zy(
+nn**j^9&0
+-?R8:fk
+9uA_<h)n
+$&ADeU
+"0K|y,
+^*ocxx
+Y;_fp3
+w0m+[([p?
+D\*@k!
+B|4Hjzl!CE
+ju+,-u
+S@k6Z!2
+jU()P*I
+VJu\2K
+3iigC{j
+bAFv'23
+:QFbZN
+(1'M &
+b$_bfV'
+	Fd""`\
+[ai3'.
++#mR+O
+YIvEgy
+jsdriX
+ZP~t7o
+t(z}B?
+T18bi06crP
+=[<;kh
+L)/i5-y
+*i Y3$
+7Q?v->)
+endstream
+endobj
+39 0 obj
+[ 0[ 750]  3[ 278]  9[ 722]  11[ 333 333]  15[ 278 333 278 278 556 556 556 556 556 556 556 556 556 556 333]  36[ 722 722 722 722 667 611 778 722 278]  47[ 611 833 722 778 667]  53[ 722 667 611 722 667]  68[ 556 611 556 611 556 333 611 611 278]  78[ 556 278 889 611 611 611]  85[ 389 556 333 611 556 778]  92[ 556]  177[ 556] ] 
+endobj
+40 0 obj
+[ 278] 
+endobj
+41 0 obj
+<</Filter/FlateDecode/Length 226>>
+stream
+endstream
+endobj
+42 0 obj
+<</Filter/FlateDecode/Length 6033/Length1 11088>>
+stream
+0{AVfFzZjJ
+*u36i.
+BjNw7I*
+{V?vD?
+o:U^_^O
+0&<$<)
+ryaan.'/4
+}Z5Mubu"
+{v{Ce~jb
+^JO$[n
+biA)Vw
+	)^\oA
+Q/cz=,>
+endstream
+endobj
+43 0 obj
+[ 0[ 600]  120[ 460] ] 
+endobj
+44 0 obj
+<</Type/Metadata/Subtype/XML/Length 3088>>
+stream
+<?xpacket begin="
+" id="W5M0MpCehiHzreSzNTczkc9d"?><x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="3.1-701">
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+<rdf:Description rdf:about=""  xmlns:pdf="http://ns.adobe.com/pdf/1.3/">
+<pdf:Producer>Microsoft
+ Word for Microsoft 365</pdf:Producer></rdf:Description>
+<rdf:Description rdf:about=""  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dc:creator><rdf:Seq><rdf:li>gaurav Bhole</rdf:li></rdf:Seq></dc:creator></rdf:Description>
+<rdf:Description rdf:about=""  xmlns:xmp="http://ns.adobe.com/xap/1.0/">
+<xmp:CreatorTool>Microsoft
+ Word for Microsoft 365</xmp:CreatorTool><xmp:CreateDate>2025-12-23T20:25:59+05:30</xmp:CreateDate><xmp:ModifyDate>2025-12-23T20:25:59+05:30</xmp:ModifyDate></rdf:Description>
+<rdf:Description rdf:about=""  xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/">
+<xmpMM:DocumentID>uuid:54E6002C-1644-40BF-914D-3AB5C11D24A4</xmpMM:DocumentID><xmpMM:InstanceID>uuid:54E6002C-1644-40BF-914D-3AB5C11D24A4</xmpMM:InstanceID></rdf:Description>
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+</rdf:RDF></x:xmpmeta><?xpacket end="w"?>
+endstream
+endobj
+45 0 obj
+<</DisplayDocTitle true>>
+endobj
+46 0 obj
+<</Type/XRef/Size 46/W[ 1 4 2] /Root 1 0 R/Info 32 0 R/ID[<2C00E6544416BF40914D3AB5C11D24A4><2C00E6544416BF40914D3AB5C11D24A4>] /Filter/FlateDecode/Length 162>>
+stream
+endstream
+endobj
+0000000000 65535 f
+0000000017 00000 n
+0000000116 00000 n
+0000000179 00000 n
+0000000515 00000 n
+0000006789 00000 n
+0000006919 00000 n
+0000006947 00000 n
+0000007104 00000 n
+0000007177 00000 n
+0000007427 00000 n
+0000007481 00000 n
+0000007535 00000 n
+0000007704 00000 n
+0000007955 00000 n
+0000008102 00000 n
+0000008296 00000 n
+0000008449 00000 n
+0000008608 00000 n
+0000008745 00000 n
+0000008775 00000 n
+0000008940 00000 n
+0000009014 00000 n
+0000009270 00000 n
+0000009444 00000 n
+0000009700 00000 n
+0000009833 00000 n
+0000009863 00000 n
+0000010024 00000 n
+0000010098 00000 n
+0000010337 00000 n
+0000010637 00000 n
+0000016539 00000 n
+0000016817 00000 n
+0000017195 00000 n
+0000069081 00000 n
+0000069462 00000 n
+0000069489 00000 n
+0000069885 00000 n
+0000108944 00000 n
+0000109291 00000 n
+0000109318 00000 n
+0000109619 00000 n
+0000115742 00000 n
+0000115785 00000 n
+0000118956 00000 n
+0000119001 00000 n
+trailer
+<</Size 47/Root 1 0 R/Info 32 0 R/ID[<2C00E6544416BF40914D3AB5C11D24A4><2C00E6544416BF40914D3AB5C11D24A4>] >>
+startxref
+119364
+trailer
+<</Size 47/Root 1 0 R/Info 32 0 R/ID[<2C00E6544416BF40914D3AB5C11D24A4><2C00E6544416BF40914D3AB5C11D24A4>] /Prev 119364/XRefStm 119001>>
+startxref
+120462
